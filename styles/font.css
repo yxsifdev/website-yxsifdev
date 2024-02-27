@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root {
+    --primary: #A020F0;
+    --secondary: #367691;
+    --bg_color: #121212;
+    --description: #a1a1aa;
+}
+
+@font-face {
+    font-family: HyperFatos;
+    src: url(/fonts/HyperFatosRegular.otf);
+}
+
+@font-face {
+    font-family: Roshivall;
+    src: url(/fonts/Roshivall.otf);
+}
+
+@font-face {
+    font-family: SwashZyllong;
+    src: url(/fonts/Swash\ Zillong.otf);
+}
